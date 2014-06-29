@@ -1,5 +1,4 @@
 oopsolutions
 ============
 
-following tutorials from a book
-This feature1 branch is used to build my own variant
+This branch contains developments of the tutorials in the master branch.
