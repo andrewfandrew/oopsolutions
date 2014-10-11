@@ -16,12 +16,11 @@
         $product = new Ch2_Product();
 
 // display the $_type property
-//        echo $product->_type;
+        echo $product->_type;
 
 // try this too
         $product->_type = 'DVD';
-        
-        echo "Test page: AF";
+       
         ?>
     </body>
 </html>
